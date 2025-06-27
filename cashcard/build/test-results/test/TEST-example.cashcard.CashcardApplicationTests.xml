@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="example.cashcard.CashcardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-27T07:46:26.190Z" hostname="nithish-1998" time="1.443">
+<testsuite name="example.cashcard.CashcardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-27T12:16:57.922Z" hostname="nithish-1998" time="0.934">
   <properties/>
-  <testcase name="contextLoads()" classname="example.cashcard.CashcardApplicationTests" time="1.443"/>
-  <system-out><![CDATA[13:16:23.705 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [example.cashcard.CashcardApplicationTests]: CashcardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-13:16:23.989 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration example.cashcard.CashcardApplication for test class example.cashcard.CashcardApplicationTests
+  <testcase name="contextLoads()" classname="example.cashcard.CashcardApplicationTests" time="0.934"/>
+  <system-out><![CDATA[17:46:55.735 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [example.cashcard.CashcardApplicationTests]: CashcardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:46:55.862 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration example.cashcard.CashcardApplication for test class example.cashcard.CashcardApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -14,9 +14,9 @@
 
  :: Spring Boot ::                (v3.5.3)
 
-2025-06-27T13:16:24.635+05:30  INFO 68771 --- [cashcard] [    Test worker] e.cashcard.CashcardApplicationTests      : Starting CashcardApplicationTests using Java 17.0.15 with PID 68771 (started by nithish-1998 in /home/nithish-1998/Downloads/cashcard)
-2025-06-27T13:16:24.637+05:30  INFO 68771 --- [cashcard] [    Test worker] e.cashcard.CashcardApplicationTests      : No active profile set, falling back to 1 default profile: "default"
-2025-06-27T13:16:26.140+05:30  INFO 68771 --- [cashcard] [    Test worker] e.cashcard.CashcardApplicationTests      : Started CashcardApplicationTests in 1.925 seconds (process running for 5.824)
+2025-06-27T17:46:56.407+05:30  INFO 76029 --- [cashcard] [    Test worker] e.cashcard.CashcardApplicationTests      : Starting CashcardApplicationTests using Java 17.0.15 with PID 76029 (started by nithish-1998 in /home/nithish-1998/Project/cashcard)
+2025-06-27T17:46:56.409+05:30  INFO 76029 --- [cashcard] [    Test worker] e.cashcard.CashcardApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2025-06-27T17:46:57.901+05:30  INFO 76029 --- [cashcard] [    Test worker] e.cashcard.CashcardApplicationTests      : Started CashcardApplicationTests in 1.879 seconds (process running for 3.234)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
